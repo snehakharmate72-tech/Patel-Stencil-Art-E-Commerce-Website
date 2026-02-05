@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js MongoDB**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Native Development**
 
 - 🤝 I’m looking for help with **Development**
 
